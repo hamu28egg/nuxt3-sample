@@ -26,4 +26,6 @@ Build the application for production:
 yarn build
 ```
 
+for testing, I'll use AWS amplify.
+
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
